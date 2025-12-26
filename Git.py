@@ -1,2 +1,10 @@
-def just_run_me:
+def running_man:
     print(f"It's running man!")
+
+def hallelujah:
+    print(f"Hallelujah!")
+
+
+
+
+
