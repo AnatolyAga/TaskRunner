@@ -1,4 +1,4 @@
-import datetime, time
+import datetime
 from collections import namedtuple
 import random
 import json
